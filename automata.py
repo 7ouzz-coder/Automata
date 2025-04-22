@@ -1,4 +1,4 @@
-#7ouzz-coder
+#https://github.com/7ouzz-coder/Automata
 
 def parse_input():
     """
