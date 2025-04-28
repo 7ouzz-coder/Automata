@@ -1,5 +1,3 @@
-#https://github.com/7ouzz-coder/Automata
-
 def parse_input():
     """
     Lee y procesa la entrada según el formato especificado.
