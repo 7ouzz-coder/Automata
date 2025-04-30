@@ -1,3 +1,6 @@
+#Integrantes:
+#Guillermo Villar; Victor Flores; Rodrigo Chaura.
+
 def parse_input():
     """
     Lee y procesa la entrada según el formato especificado.
